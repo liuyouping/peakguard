@@ -1,9 +1,0 @@
-{
-  "src": [
-    "pages/Index",
-    "pages/LoginPage",
-    "pages/RiskAnalysisPage",
-    "pages/HealthMonitorPage",
-    "pages/ProfilePage"
-  ]
-}
